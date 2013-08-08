@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libs/ActionBarSherlock/ActionBarSherlock.iml" filepath="$PROJECT_DIR$/libs/ActionBarSherlock/ActionBarSherlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActionBarSherlockTest/ActionBarSherlockTest.iml" filepath="$PROJECT_DIR$/ActionBarSherlockTest/ActionBarSherlockTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActionBarSherlockTestProject.iml" filepath="$PROJECT_DIR$/ActionBarSherlockTestProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/ActionBarSherlock/actionbarsherlock/actionbarsherlock.iml" filepath="$PROJECT_DIR$/libs/ActionBarSherlock/actionbarsherlock/actionbarsherlock.iml" />
+    </modules>
+  </component>
+</project>
+
